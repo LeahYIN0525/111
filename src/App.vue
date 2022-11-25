@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="点赞投币"/>
+  <HelloWorld msg="点赞"/>
 </template>
 
 <script>
